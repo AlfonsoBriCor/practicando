@@ -7,3 +7,4 @@ for i in o:
 
 print(o)
 print(8//6)
+print(len(o))
